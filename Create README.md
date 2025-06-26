@@ -41,4 +41,4 @@ E também domino as linguagens fundamentais para o front-end:
 
 ## 📫 Contato
   
-- Email: imanayasuzani@gmail.com
+- Email: imanayavieira@gmail.com
